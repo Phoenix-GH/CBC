@@ -1,0 +1,70 @@
+#welcome {
+    /*background: url("../images/school-child.jpg") no-repeat fixed center;*/
+}
+#welcome .bg {
+      position:absolute;
+      top:0;
+    left: 0;
+    top: 0;
+    height: 100%;
+      -webkit-animation-name: fade;
+      -webkit-animation-iteration-count: infinite;
+      -webkit-animation-duration: 24s;
+      animation-name: fade;
+      animation-iteration-count: infinite;
+      animation-duration: 24s;
+  }
+
+@-webkit-keyframes fade {
+    0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes fade {
+    0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+#f2 {
+    -webkit-animation-delay: -6s;
+}
+#f3 {
+    -webkit-animation-delay: -12s;
+}
+#f4 {
+    -webkit-animation-delay: -18s;
+}
+
+.header .action-btn {
+    display:none;
+}
+.header.show-action-button .action-btn {
+    display:block;
+}
+.header .title {
+    width: 100%;
+    display: block;
+    padding-left: 53px;
+    font-size:12pt;
+}
+.header.show-action-button .title {
+
+    padding-right: 120px;
+}
+
+#welcome .cbc-logo-welcome {
+    width: 60%;
+    position:  absolute;
+    left: 20%;
+    border-radius: 15px;
+    padding:  10px;
+    background:  rgba(0,0,0,0.99);
+}
+.cbc-logo-welcome img {
+    width: 100%;
+}

@@ -1,0 +1,56 @@
+2016-02-11 17:09:42.782 CBC[11745:648560] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-11 17:09:42.783 CBC[11745:648560] Multi-tasking -> Device: YES, App: YES
+2016-02-11 17:09:42.798 CBC[11745:648560] Unlimited access to network resources
+2016-02-11 17:09:42.883 CBC[11745:648560] Restoring old webstorage backup. From: '/Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Data/Application/37D4EE2E-C9C8-4137-97D3-B7DE72F9D3F5/Library/WebKit/LocalStorage/file__0.localstorage' To: '/Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Data/Application/37D4EE2E-C9C8-4137-97D3-B7DE72F9D3F5/Library/Caches/file__0.localstorage'.
+2016-02-11 17:09:42.895 CBC[11745:648560] Removing old webstorage backup: '/Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Data/Application/37D4EE2E-C9C8-4137-97D3-B7DE72F9D3F5/Library/WebKit/LocalStorage/file__0.localstorage'.
+2016-02-11 17:09:44.158 CBC[11745:648560] [CDVTimer][splashscreen] 937.970996ms
+2016-02-11 17:09:44.158 CBC[11745:648560] [CDVTimer][TotalPluginStartup] 938.234031ms
+2016-02-11 17:09:44.316 CBC[11745:648560] active
+2016-02-11 17:09:44.849 CBC[11745:648560] Resetting plugins due to page load.
+2016-02-11 17:09:56.575 CBC[11745:648560] Finished load of: file:///Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Bundle/Application/2BFB6BF0-93FF-426D-96F4-AFC0A6C91937/CBC.app/www/index.html?page=welcome
+2016-02-11 17:09:56.945 CBC[11745:648560] THREAD WARNING: ['ParsePlugin'] took '56.797119' ms. Plugin should use a background thread.
+2016-02-11 17:09:57.231 CBC[11745:648560] THREAD WARNING: ['ParsePlugin'] took '14.364990' ms. Plugin should use a background thread.
+2016-02-11 21:16:10.301 CBC[22173:729987] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-11 21:16:10.302 CBC[22173:729987] Multi-tasking -> Device: YES, App: YES
+2016-02-11 21:16:10.349 CBC[22173:729987] Unlimited access to network resources
+2016-02-11 21:16:11.897 CBC[22173:729987] [CDVTimer][splashscreen] 1277.257979ms
+2016-02-11 21:16:11.897 CBC[22173:729987] [CDVTimer][TotalPluginStartup] 1277.607024ms
+2016-02-11 21:16:11.911 CBC[22173:729987] active
+2016-02-11 21:16:12.083 CBC[22173:729987] Resetting plugins due to page load.
+2016-02-11 21:16:13.290 CBC[22173:729987] Finished load of: file:///Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Bundle/Application/EA14C203-9F8B-4D5A-936D-4B2139F42C02/CBC.app/www/index.html?page=welcome
+2016-02-11 21:16:13.959 CBC[22173:729987] THREAD WARNING: ['ParsePlugin'] took '157.354004' ms. Plugin should use a background thread.
+2016-02-11 21:16:14.379 CBC[22173:729987] THREAD WARNING: ['ParsePlugin'] took '223.041992' ms. Plugin should use a background thread.
+2016-02-17 18:09:28.892 CBC[6652:621508] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-17 18:09:28.930 CBC[6652:621508] Multi-tasking -> Device: YES, App: YES
+2016-02-17 18:09:29.022 CBC[6652:621508] Unlimited access to network resources
+2016-02-17 18:09:30.954 CBC[6652:621508] [CDVTimer][splashscreen] 1308.326006ms
+2016-02-17 18:09:30.954 CBC[6652:621508] [CDVTimer][TotalPluginStartup] 1308.611989ms
+2016-02-17 18:09:31.107 CBC[6652:621508] active
+2016-02-17 18:09:31.359 CBC[6652:621508] Resetting plugins due to page load.
+2016-02-17 18:09:34.886 CBC[6652:621508] Finished load of: file:///Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Bundle/Application/182E8767-8C20-42BC-9917-924A49E67689/CBC.app/www/index.html?page=welcome
+2016-02-17 18:09:35.237 CBC[6652:621508] THREAD WARNING: ['ParsePlugin'] took '63.692871' ms. Plugin should use a background thread.
+2016-02-17 18:09:35.431 CBC[6652:621508] THREAD WARNING: ['ParsePlugin'] took '22.763916' ms. Plugin should use a background thread.
+2016-02-17 18:10:31.585 CBC[6652:621508] active
+2016-02-27 11:25:56.349 CBC[36994:1903827] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-27 11:25:56.473 CBC[36994:1903827] Multi-tasking -> Device: YES, App: YES
+2016-02-27 11:25:56.596 CBC[36994:1903827] Unlimited access to network resources
+2016-02-27 11:26:02.771 CBC[36994:1903827] [CDVTimer][splashscreen] 4398.513019ms
+2016-02-27 11:26:02.786 CBC[36994:1903827] [CDVTimer][TotalPluginStartup] 4444.218993ms
+2016-02-27 11:26:03.179 CBC[36994:1903827] active
+2016-02-27 11:26:10.520 CBC[36994:1903827] Resetting plugins due to page load.
+2016-02-27 11:26:34.138 CBC[36994:1903827] Finished load of: file:///Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Bundle/Application/D8742CA1-21A5-4C24-91AB-B0F812E12921/CBC.app/www/index.html?page=welcome
+2016-02-27 11:26:35.265 CBC[36994:1903827] THREAD WARNING: ['ParsePlugin'] took '543.625000' ms. Plugin should use a background thread.
+2016-02-27 11:26:35.356 CBC[36994:1903827] THREAD WARNING: ['PushPlugin'] took '90.103271' ms. Plugin should use a background thread.
+2016-02-27 11:27:46.092 CBC[36994:1903827] active
+2016-02-27 11:35:52.098 CBC[37254:1910006] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-27 11:35:52.100 CBC[37254:1910006] Multi-tasking -> Device: YES, App: YES
+2016-02-27 11:35:52.121 CBC[37254:1910006] Unlimited access to network resources
+2016-02-27 11:35:53.328 CBC[37254:1910006] [CDVTimer][splashscreen] 895.223022ms
+2016-02-27 11:35:53.328 CBC[37254:1910006] [CDVTimer][TotalPluginStartup] 895.448983ms
+2016-02-27 11:35:53.336 CBC[37254:1910006] active
+2016-02-27 11:35:53.419 CBC[37254:1910006] Resetting plugins due to page load.
+2016-02-27 11:35:54.123 CBC[37254:1910006] Finished load of: file:///Users/kimuraisoroku/Library/Developer/CoreSimulator/Devices/67F9741A-99BD-44CF-8A68-06D3C652A312/data/Containers/Bundle/Application/E9B98F9D-3FF8-49AD-8AE9-18F42F50F87D/CBC.app/www/index.html?page=welcome
+2016-02-27 11:35:54.531 CBC[37254:1910006] THREAD WARNING: ['ParsePlugin'] took '33.300781' ms. Plugin should use a background thread.
+2016-02-27 11:35:55.155 CBC[37254:1910006] THREAD WARNING: ['ParsePlugin'] took '55.535889' ms. Plugin should use a background thread.
+2016-02-27 11:38:07.612 CBC[37254:1910006] active
+2016-02-27 11:48:12.419 CBC[37254:1910006] active
